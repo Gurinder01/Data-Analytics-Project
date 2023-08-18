@@ -36,7 +36,7 @@ pip install numpy pandas matplotlib scikit-learn
 
 To execute the code, follow the steps below:
 
-1. **Download the project files:** Clone or download this GitHub repository, including the Jupyter Notebook file (`Covertype_Prediction.ipynb`) and the `covtype.data` file.
+1. **Download the project files:** Clone or download this GitHub repository, including the Jupyter Notebook file (`Covertype_Prediction.ipynb`)
 
 2. **Launch Jupyter Notebook:** Open a command prompt or terminal and run the command `jupyter notebook`. This will open the Jupyter Notebook interface in your web browser.
 
