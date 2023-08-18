@@ -1,4 +1,4 @@
-# Data Science Project: Comprehensive Analysis of Forest Cover Types
+# Data Analytics Project: Comprehensive Analysis of Forest Cover Types
 
 ## Introduction
 
