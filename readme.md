@@ -19,7 +19,6 @@ If any of these components are missing, please install them before proceeding to
 1. **Install Python 3:** Visit the official Python website (https://www.python.org) and download the latest version of Python 3 based on your operating system. Follow the installation instructions to complete the setup.
 
 2. **Install Jupyter Notebook:** Open a command prompt or terminal and run the following command:
-
 pip install jupyter
 
 3. **Install Required Libraries:** Run the following command to install the necessary libraries:
@@ -36,7 +35,7 @@ pip install numpy pandas matplotlib scikit-learn
 
 To execute the code, follow the steps below:
 
-1. **Download the project files:** Clone or download this GitHub repository, including the Jupyter Notebook file (`Covertype_Prediction.ipynb`)
+1. **Download the project files:** Clone or download this GitHub repository, including the Jupyter Notebook file (`Covertype_Prediction.ipynb`), the HTML version of the notebook (`Covertype_Prediction.html`), and the project report in PDF format (`Project_Report.pdf`).
 
 2. **Launch Jupyter Notebook:** Open a command prompt or terminal and run the command `jupyter notebook`. This will open the Jupyter Notebook interface in your web browser.
 
@@ -51,3 +50,7 @@ The results of the analysis will be displayed within the Jupyter Notebook itself
 ## Conclusion
 
 This project demonstrates how to predict the cover type of forest areas using machine learning techniques such as K-Nearest Neighbors and Decision Tree. The provided Jupyter Notebook contains all the necessary code and instructions for execution.
+
+## Project Report
+
+The `Project_Report.pdf` file provides an in-depth exploration of the methods, analysis, and outcomes of this data analytics project. It complements the Jupyter Notebook (`Covertype_Prediction.ipynb`) and the HTML version (`Covertype_Prediction.html`) by providing a structured narrative of the entire project's lifecycle.
